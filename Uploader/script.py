@@ -88,12 +88,14 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  👲 Status : <b>{}</b>
 """
 
-    PLANS = """🌸 ₹100/Month for Premium User No download Limits & No Time Limits.
-Buy Subscription from @GreyMatter_Owner.
+    PLANS = """🌸 '''₹100/Month for Premium User 
+No download Limits & No Time Limits.'''
 
-For buying same bot like this Message - @GreyMatter_Owner
+''Buy Subscription from @GreyMatter_Owner.''
 
-You can donate any amount keep this service alive & free - greymatter658@ybl
+''For buying same bot like this Message - @GreyMatter_Owner''
+
+'''You can donate any amount keep this service alive & free''' - `greymatter658@ybl`
 
 """
 
