@@ -91,6 +91,8 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
     PLANS = """🌸 ₹100/Month for Premium User No download Limits & No Time Limits.
 Buy Subscription from @GreyMatter_Owner.
 
+For buying same bot like this Message - @GreyMatter_Owner
+
 You can donate any amount keep this service alive & free - greymatter658@ybl
 
 """
