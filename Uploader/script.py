@@ -79,8 +79,6 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
  📇 Profile Link : <b>{}</b>
 
- 🌟 Premium User : <b>{}</b>
-
  📡 Dc : <b>{}</b>
 
  📑 Language : <b>{}</b>
@@ -93,7 +91,7 @@ No download Limits & No Time Limits.
 
 Buy Subscription from @GreyMatter_Owner.
 
-''For buying same bot like this Message - @GreyMatter_Owner''
+For buying same bot like this Message - @GreyMatter_Owner
 
 You can donate any amount keep this service alive & free - `greymatter658@ybl`
 
@@ -166,7 +164,7 @@ You can donate any amount keep this service alive & free - `greymatter658@ybl`
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to /ren with custom thumbnail support"
     AFTER_GET_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\nJoin : @GreyMatter_Bots"
-    AFTER_GET_DL_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\nValid for <b>14</b> days.\nJoin : @Tellybots_4u"
+    AFTER_GET_DL_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\nValid for <b>14</b> days.\nJoin : @GreyMatter_Bots"
     #AFTER_GET_DL_LINK = " {} valid for 30 or more days.\n\n Join : https://t.me/+IezzVbvzlKxlODY1 \n For the list of Telegram bots. "
     AFTER_GET_GOFILE_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n<b>File MD5 Checksum :</b> <code>{}</code>\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\n Valid untill 10 days of inactivity\nJoin : @GreyMatter_Bots"
     FF_MPEG_RO_BOT_RE_SURRECT_ED = """Syntax: /trim HH:MM:SS for screenshot of that specific time."""
@@ -188,7 +186,7 @@ You can donate any amount keep this service alive & free - `greymatter658@ybl`
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
-    FREE_USER_LIMIT_Q_SZE = """Cannot Process Free users only 1 request per 4 hrs\n
+    FREE_USER_LIMIT_Q_SZE = """Cannot Process Free users only 1 request per 5 mins\n
 Upgrade your /plans to Remove Time Gaps and For link Processing"""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Send me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
