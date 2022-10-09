@@ -52,7 +52,7 @@ class Config(object):
     # Update channel for Force Subscribe
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
     TG_MIN_FILE_SIZE = 2097152000
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "TellyUploaderBot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "pro_url_uploader_658_bot")
     PRO_USERS = list(set(int(x) for x in os.environ.get("PRO_USERS", "0").split()))
     PRO_USERS.append(OWNER_ID)
     BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", "False"))
