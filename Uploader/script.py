@@ -36,7 +36,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  
 """
     ABOUT_TEXT = """
-**Mʏ ɴᴀᴍᴇ** : [ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ](http://t.me/GreyMatter_Uploader_Bot)
+**Mʏ ɴᴀᴍᴇ** : [ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ](http://t.me/pro_url_uploader_658_bot)
 
 **Cʜᴀɴɴᴇʟ** : [GreyMatter's Bot](https://t.me/greymatter_bots)
 
@@ -79,6 +79,8 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
  📇 Profile Link : <b>{}</b>
 
+ 🌟 Premium User : <b>{}</b>
+
  📡 Dc : <b>{}</b>
 
  📑 Language : <b>{}</b>
@@ -86,25 +88,10 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  👲 Status : <b>{}</b>
 """
 
-    PLANS = """🔰 My Plans 🔰
+    PLANS = 🌸 ₹100/Month for Premium User No download Limits & No Time Limits.
+Buy Subscription from @GreyMatter_Owner.
 
-🛡️PLANS 1(PER 50 LINKS)🛡️
-
-🌸 1 Day      - ₹30
-🌺 1 Week   - ₹100
-🌷 1 Month - ₹300
-
-🛡️ PLANS 2(PER 100 LINKS)🛡️
-
-🌸 1 Day      - ₹100
-🌺 1 Week   - ₹150
-🌷 1 Month - ₹300
-
-🛡️ PLANS 3(PER 200 LINKS)🛡️
-
-🌸 1Day      - ₹150
-🌺 1Week   - ₹200
-🌷 1Month - ₹350
+You can donate any amount keep this service alive & free - greymatter658@ybl
 
 """
 
