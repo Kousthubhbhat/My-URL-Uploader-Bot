@@ -13,17 +13,17 @@ class Config(object):
     # get a token from https://chatbase.com
     CHAT_BASE_TOKEN = os.environ.get("CHAT_BASE_TOKEN", "")
     # get a token from @BotFather
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5704753893:AAHpJdaX-jmcIf9oIkXNW2RkFC_cDbVHXV4")
     # The Telegram API things
-    API_ID = int(os.environ.get("API_ID", 12345))
-    API_HASH = os.environ.get("API_HASH")
+    API_ID = int(os.environ.get("API_ID", 9529563))
+    API_HASH = os.environ.get("API_HASH", "a6c1e1c8daecd5d1f7da03d42032d09a")
     # Get these values from my.telegram.org
     # Array to store users who are authorized to use the bot
 
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
     # Update channel for Force Subscribe
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
+    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "-1001601615641")
     # Telegram maximum file upload size
     MAX_FILE_SIZE = 4194304000
     TG_MAX_FILE_SIZE = 4194304000
@@ -44,13 +44,13 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 300
     # watermark file
     DEF_WATER_MARK_FILE = ""
-    DATABASE_URL = os.environ.get("DATABASE_URL", "")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://GreyMatter:GreyMatter24410062@cluster0.acihg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
     SESSION_NAME = os.environ.get("SESSION_NAME", "Rename-Bot-0")
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -100))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1001735454980))
     LOGGER = logging
-    OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "5151412494"))
     # Update channel for Force Subscribe
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001601615641")
     TG_MIN_FILE_SIZE = 2097152000
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "pro_url_uploader_658_bot")
     PRO_USERS = list(set(int(x) for x in os.environ.get("PRO_USERS", "0").split()))
