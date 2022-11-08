@@ -9,7 +9,7 @@ I ᴀᴍ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴜʀʟ ᴜᴘʟ
 
 Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [GreyMatter's Bot](https://t.me/greymatter_bots)
+𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 ʙʏ : [𝙿𝙻𝙰𝚈 𝙼𝚈 𝚂𝙷𝙾𝚆](https://t.me/playmyshow)
 """
     HELP_TEXT = """
 ʟɪɴᴋ ᴛᴏ ᴍᴇᴅɪᴀ ᴏʀ ғɪʟᴇ
@@ -32,7 +32,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 ➠ sᴇɴᴅ /showthumb ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [GreyMatter's Bot](https://t.me/greymatter_bots)
+𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 ʙʏ : [𝙿𝙻𝙰𝚈 𝙼𝚈 𝚂𝙷𝙾𝚆](https://t.me/playmyshow)
  
 """
     ABOUT_TEXT = """
@@ -52,7 +52,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 
 **Dᴇᴠᴇʟᴏᴘᴇʀ :** [GreyMatter Owner](https://t.me/GreyMatter_Owner)
 
-**ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :** [GreyMatter's Bot](https://t.me/greymatter_bots)
+**𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 ʙʏ** : [𝙿𝙻𝙰𝚈 𝙼𝚈 𝚂𝙷𝙾𝚆](https://t.me/playmyshow)
 
 """
 
@@ -64,7 +64,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 ⏳ Tɪᴍᴇ ʟᴇғᴛ : {4}\n\n
 """
     ID_TEXT = """
-🆔 Your Telegram ID 𝐢𝐬 :- <code>{}</code>
+🆔 Your Telegram ID 𝐢𝐬 :- <code>{}</code> \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow
 """
 
     INFO_TEXT = """
@@ -91,9 +91,9 @@ No download Limits & No Time Limits.
 
 Buy Subscription from @GreyMatter_Owner.
 
-For buying same bot like this Message - @GreyMatter_Owner
+𝚆𝚊𝚗𝚝 𝚜𝚊𝚖𝚎 bot like 𝚝𝚑𝚒𝚜? 𝙳𝙼 - @GreyMatter_Owner
 
-You can donate any amount keep this service alive & free - `greymatter658@ybl`
+You can donate any amount to keep this service alive & free - @greymatters_about
 
 """
 
@@ -128,24 +128,24 @@ You can donate any amount keep this service alive & free - `greymatter658@ybl`
         InlineKeyboardButton('♨️ ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
-    TEXT = "sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴛᴏ sᴇᴛ ɪᴛ"
-    IFLONG_FILE_NAME = " Only 64 characters can be named . "
+    TEXT = "sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴛᴏ sᴇᴛ ɪᴛ \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
+    IFLONG_FILE_NAME = " Only 64 characters can be named .  \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>No preminum plans available in this bot </b>  /help for Details"
     FORMAT_SELECTION = "Nᴏᴡ Sᴇʟᴇᴄᴛ Tʜᴇ Dᴇsɪʀᴇᴅ Fᴏʀᴍᴀᴛ ᴏʀ Fɪʟᴇ 🗄️ Sɪᴢᴇ ᴛᴏ Uᴘʟᴏᴀᴅ"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
-    NOYES_URL = "@robot URL detected. Please send me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    NOYES_URL = "@robot URL detected. Please send me a fast URL so that I can upload to Telegram, without me slowing down for other users. \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
     DOWNLOAD_FILE = "📥 Downloading  File "
-    UPLOAD_FILE = " UploadinG 📤 \n\n To  transfer.sh "
-    ANNO_UPLOAD = " UploadinG📤 \n\n To  anonfiles.com "
-    BAY_UPLOAD = " UploadinG📤 \n\n To  bayfiles.com "
+    UPLOAD_FILE = " UploadinG 📤 \n\n To  transfer.sh \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
+    ANNO_UPLOAD = " UploadinG📤 \n\n To  anonfiles.com \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
+    BAY_UPLOAD = " UploadinG📤 \n\n To  bayfiles.com \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
     GO_FILE_UPLOAD = " 📤UploadinG📤 \n\n To  gofile.io "
     DOWNLOAD_START = "ᴛʀʏɪɴɢ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ⌛\n\n💮🌸 <i>{} 💮🌸</i>"
-    UPLOAD_START = "📤 Uᴘʟᴏᴀᴅɪɴɢ Pʟᴇᴀsᴇ Wᴀɪᴛ"
+    UPLOAD_START = "📤 Uᴘʟᴏᴀᴅɪɴɢ Pʟᴇᴀsᴇ Wᴀɪᴛ \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = " JOIN : https://t.me/TGBotsCollection\nFor the List of Telegram Bots"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = " JOIN : https://t.me/GreyMatter_Bots\nFor the List of Telegram Bots"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nTʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ\n\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs"
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/GreyMatter_Owner'>@GreyMatter_Owner</a>"
@@ -187,11 +187,11 @@ You can use /rename command after receiving file to rename it with custom thumbn
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process Free users only 1 request per 5 mins\n
-Upgrade your /plans to Remove Time Gaps and For link Processing"""
+Upgrade your /plans to Remove Time Gaps and For link Processing \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Send me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
-    BANNED_USER_TEXT = "<code>You are Banned!</code>"
-    CHECK_LINK = "Pʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʟɪɴᴋ ⌛"
+    BANNED_USER_TEXT = "<code>You are Banned!</code> \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
+    CHECK_LINK = "Pʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʟɪɴᴋ ⌛ \𝚗\𝚗𝚂𝚙𝚘𝚗𝚜𝚘𝚛𝚎𝚍 𝙱𝚢 : @playmyshow"
 
     ADD_CAPTION_HELP = """Select an uploaded file/video or forward me <b>Any Telegram File</b> and just write the text you want to be on the file <b>as a reply to the file</b> and the text you wrote will be attached as the caption! 🤩
     
