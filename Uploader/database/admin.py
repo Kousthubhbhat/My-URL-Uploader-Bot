@@ -27,7 +27,7 @@ s = filters.command("broadcast") & filters.user(Config.OWNER_ID)
 async def _broadcast(_, m: Message):
     await broadcast_handler(m)
 
-@Client.on_message(filters.private & filters.command("status") & filters.user(Config.OWNER_ID))
+@Client.on_message(filters.private & filters.command("status"))
 async def _status(_, m: Message):
     total, used, free = shutil.disk_usage(".")
     total = humanbytes(total)
