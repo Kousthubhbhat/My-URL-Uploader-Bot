@@ -12,7 +12,7 @@ from Uploader.database.bcast import broadcast_handler
 
 f = filters.command("status") & filters.user(Config.OWNER_ID)
 
-s = filters.command("broadcast") & filters.user(Config.OWNER_ID) & filters.reply
+s = filters.command("broadcast") & filters.user(Config.OWNER_ID)
 
 @Client.on_message(f)
 async def edited(_, m: Message):
