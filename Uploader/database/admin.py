@@ -22,8 +22,8 @@ from pyrogram.errors import FloodWait, InputUserDeactivated, UserIsBlocked, Peer
 
 
 @Client.on_message(filters.private & filters.command("broadcast") & filters.reply)
-async def _broadcast(_, m: Message):
-    await broadcast_handler(m)
+async def _broadcast(c, m: Message):
+    await broadcast_handler(c, m)
 
 @Client.on_message(filters.private & filters.command("status"))
 async def _status(_, m: Message):
@@ -62,7 +62,7 @@ async def send_msg(user_id, message):
         return 500, f"{user_id} : {traceback.format_exc()}\n"
 
 
-async def broadcast_handler(m: Message):
+async def broadcast_handler(c, m: Message):
     all_users = await db.get_all_users()
     broadcast_msg = m.reply_to_message
     while True:
