@@ -21,7 +21,7 @@ from pyrogram.types import Message
 from pyrogram.errors import FloodWait, InputUserDeactivated, UserIsBlocked, PeerIdInvalid
 
 
-@Client.on_message(filters.private & filters.command("broadcast") & filters.reply & filters.user(Config.OWNER_ID))
+@Client.on_message(filters.private & filters.command("broadcast") & filters.reply)
 async def _broadcast(_, m: Message):
     await broadcast_handler(m)
 
