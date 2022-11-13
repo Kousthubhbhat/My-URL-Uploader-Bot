@@ -18,6 +18,7 @@ from pyrogram import Client, filters
 from Uploader.database.add import AddUser
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from Uploader.database.database import db
+from Uploader.database.bcast import broadcast_handler
 from Uploader.functions.forcesub import handle_force_subscribe
 from Uploader.settings.settings import OpenSettings
 from Uploader.config import *
@@ -47,6 +48,14 @@ async def help_bot(_, m: Message):
         reply_markup=Translation.HELP_BUTTONS,
         disable_web_page_preview=True,
     )
+
+
+@Client.on_message(
+    filters.command("broadcast") & filters.private,
+)
+async def broadcast_bot(_, m: Message):
+    await broadcast_handler(m)
+
 
 @Client.on_message(
     filters.command("about") & filters.private,
