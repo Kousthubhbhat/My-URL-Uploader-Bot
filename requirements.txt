@@ -1,4 +1,4 @@
-Pillow-9.2.0 
+Pillow
 Unidecode-1.3.6 
 aiofiles-22.1.0 
 aiohttp-3.8.3 
