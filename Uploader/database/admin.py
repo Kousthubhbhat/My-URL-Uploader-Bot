@@ -19,9 +19,7 @@ import aiofiles
 import traceback
 from pyrogram.types import Message
 from pyrogram.errors import FloodWait, InputUserDeactivated, UserIsBlocked, PeerIdInvalid
-f = filters.command("status") & filters.user(Config.OWNER_ID)
 
-s = filters.command("broadcast") & filters.user(Config.OWNER_ID)
 
 @Client.on_message(filters.private & filters.command("broadcast") & filters.reply & filters.user(Config.OWNER_ID))
 async def _broadcast(_, m: Message):
